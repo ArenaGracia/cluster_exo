@@ -10,6 +10,7 @@ import connection.Column;
 import etu2070.annotation.Setter;
 import etu2070.framework.FileUpload;
 import java.util.Vector;
+import java.util.Date;
 
 public class Client{
 
